@@ -12,6 +12,6 @@ Output low for about 2.4 seconds after button input. Then output goes high for r
 Output high for about 2.4 seconds right when the button is initially pressed. Then output goes low for remainder of button input. Time delay can be modified by changing C1/R1 - Time = 1.1 X R1 X C1 = 1.1 X 10k X 220uF = 2.42s
 
 
-## Complete circtuit
+## Complete circuit
 Final circuit used in application
 
